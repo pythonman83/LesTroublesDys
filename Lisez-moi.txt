@@ -1,0 +1,4 @@
+Ce site à pour thème les troubles Dys.
+Il a été conçu en utilisant HTML5, CSS3 et JavaScript.
+Il est complétement responsive. 
+Il est aussi optomisé pour les moteurs de recherches SEO naturel.
